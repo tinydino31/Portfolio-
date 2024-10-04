@@ -1,3 +1,8 @@
+/*
+    Student Name: Jashanjot Kaur
+    StudentID: 301435549
+    Date: October 3, 2024
+*/
 import React from 'react';
 import { BrowserRouter as Router } from 'react-router-dom';
 //import { ThemeProvider } from '@material-ui/styles';
